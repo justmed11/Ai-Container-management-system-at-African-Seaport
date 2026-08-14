@@ -1,0 +1,137 @@
+container_id,iso_type,light_status,damage_status,terminal,plot,in_yard
+SEGU2449350,22R1,yellow,hole,Ubungo ICD,E02-1-4,True
+MSCU0524278,22P1,yellow,rust,TICTS Container Terminal,B05-5-1,True
+TCLU8262047,22T1,yellow,dent,TICTS Container Terminal,F07-6-2,True
+ONEU8692323,45G1,yellow,none,TPA ICD Kurasini,G08-3-2,True
+MAEU6073378,22T1,green,none,TPA Berth 1-7 (General Cargo),D01-6-2,True
+PCIU1458683,22T1,red,none,TPA ICD Kurasini,C19-3-1,False
+TGHU5569810,22U1,yellow,none,TICTS Container Terminal,G01-5-2,True
+MAEU5951484,45R1,yellow,rust,TPA ICD Kurasini,C07-4-4,True
+CMAU9946800,45R1,green,none,Ubungo ICD,F15-4-4,True
+SEGU7214894,22T1,green,none,TPA Berth 1-7 (General Cargo),E08-2-2,False
+HLCU7917690,22R1,yellow,rust,Ubungo ICD,D05-6-1,True
+MAEU6328709,22P1,green,none,TICTS Container Terminal,H05-4-3,True
+OOLU9868721,42U1,green,none,TPA Berth 1-7 (General Cargo),E17-4-2,True
+MAEU4345585,42G1,green,none,TPA Berth 1-7 (General Cargo),G05-6-2,False
+TGHU5876035,22U1,green,none,TICTS Container Terminal,G16-1-3,True
+TGHU6889377,22R1,green,none,Ubungo ICD,A13-3-4,True
+OOLU2980690,45G0,yellow,none,Ubungo ICD,C15-2-1,True
+ONEU3755645,22U1,green,none,TICTS Container Terminal,H01-6-1,True
+ONEU3100334,22G1,yellow,none,Ubungo ICD,B19-2-4,True
+ONEU2991245,42G1,green,none,TPA ICD Kurasini,G13-6-2,False
+HLCU1491904,22T1,green,none,TPA ICD Kurasini,B17-6-3,False
+TGHU7165720,22U1,green,none,TPA ICD Kurasini,H15-4-3,True
+HLCU1473794,45G0,yellow,rust,Ubungo ICD,F06-4-2,True
+PCIU5494800,22P1,red,none,Ubungo ICD,H18-2-4,True
+OOLU7014364,22R1,green,none,TPA ICD Kurasini,H18-5-3,True
+SEGU5574443,22R1,green,none,TPA Berth 1-7 (General Cargo),F04-6-2,False
+OOLU4989417,22R1,green,none,TPA ICD Kurasini,C10-1-2,True
+MSCU8427103,45G0,green,none,Ubungo ICD,H11-2-1,True
+OOLU1167197,22G1,green,none,TPA ICD Kurasini,B08-1-4,True
+TCLU3867740,45G0,red,rust,TICTS Container Terminal,B07-6-2,True
+MAEU2328125,22G1,green,none,Ubungo ICD,E02-2-3,True
+OOLU1349360,42G1,green,none,TPA Berth 1-7 (General Cargo),E05-1-1,False
+PCIU9947171,45R1,yellow,hole,Ubungo ICD,H03-5-1,True
+ONEU9401398,45G0,red,hole,TPA ICD Kurasini,A06-4-4,True
+CMAU9671750,22U1,green,none,TICTS Container Terminal,C11-4-4,True
+TGHU8071543,22T1,green,none,Ubungo ICD,A18-4-4,False
+SEGU5977032,45R1,green,none,TPA ICD Kurasini,H16-1-1,True
+TCLU3248088,22U1,green,none,TICTS Container Terminal,H04-6-2,True
+PCIU8467732,42U1,green,none,Ubungo ICD,D20-5-2,True
+PCIU6584046,45R1,yellow,rust,Ubungo ICD,C15-5-4,True
+SEGU8675334,45G0,green,none,Ubungo ICD,A11-6-4,True
+TGHU6270280,45G0,green,none,TICTS Container Terminal,H04-5-4,False
+CMAU6217451,45G0,yellow,dent,TPA ICD Kurasini,G11-6-4,True
+MSCU9134310,22U1,red,dent,TICTS Container Terminal,H06-6-3,True
+MSCU5045560,45G1,green,none,Ubungo ICD,C06-2-1,True
+TGHU9379232,42U1,yellow,rust,TICTS Container Terminal,H10-6-2,False
+ONEU9464740,22R1,red,hole,TICTS Container Terminal,D13-5-3,True
+PCIU0640902,45G0,yellow,dent,TPA ICD Kurasini,D20-3-2,True
+TCLU4210472,22G1,green,none,TPA Berth 1-7 (General Cargo),B10-3-4,False
+CMAU8588425,45R1,red,hole,TPA ICD Kurasini,F04-4-1,False
+HLCU6851602,45R1,green,none,Ubungo ICD,F09-5-4,True
+ONEU1370984,22T1,red,none,TICTS Container Terminal,H10-6-4,False
+MSCU0471136,22P1,green,none,Ubungo ICD,F18-4-2,True
+MAEU7964053,22R1,green,none,TPA Berth 1-7 (General Cargo),F04-6-3,True
+ONEU0643174,42G1,yellow,dent,TICTS Container Terminal,A11-2-2,True
+HLCU1839332,22T1,yellow,dent,TICTS Container Terminal,E05-2-3,True
+MAEU0205395,22T1,green,none,TPA ICD Kurasini,A05-6-4,True
+MAEU7758915,42U1,green,none,TICTS Container Terminal,E15-6-1,False
+OOLU6617717,42G1,green,none,TPA Berth 1-7 (General Cargo),B05-3-3,True
+TCLU8478967,42G1,yellow,none,TPA Berth 1-7 (General Cargo),G15-2-4,True
+OOLU6615653,45R1,green,none,TPA Berth 1-7 (General Cargo),H03-1-1,False
+MAEU5280982,22P1,green,none,TICTS Container Terminal,G12-6-4,True
+MSCU4945193,22P1,green,none,Ubungo ICD,D04-3-3,False
+PCIU9368992,22P1,green,none,TPA ICD Kurasini,A06-3-3,True
+ONEU0229610,45G1,yellow,hole,TICTS Container Terminal,D13-4-4,True
+ONEU4599104,45G1,green,none,TICTS Container Terminal,B09-4-4,True
+OOLU6438157,22U1,green,none,Ubungo ICD,E02-2-4,True
+MSCU0343243,45R1,green,none,TICTS Container Terminal,H14-2-2,True
+HLCU8851601,22U1,green,none,TICTS Container Terminal,F19-4-4,True
+TGHU4160529,45G0,green,none,TPA ICD Kurasini,B14-1-2,True
+TGHU8164538,22T1,yellow,none,TICTS Container Terminal,D12-3-2,True
+CMAU4329215,45G1,red,dent,Ubungo ICD,H19-6-3,True
+ONEU2717743,45R1,green,none,TPA ICD Kurasini,B10-4-4,False
+ONEU4119988,22U1,green,none,TICTS Container Terminal,H19-6-2,True
+OOLU8207157,42G1,green,none,TPA Berth 1-7 (General Cargo),A08-6-4,True
+SEGU8925541,22U1,green,none,TPA ICD Kurasini,A11-1-3,False
+TGHU4492518,45G0,yellow,hole,TPA ICD Kurasini,G05-5-1,True
+TGHU5281680,22T1,green,none,TPA ICD Kurasini,C07-3-4,False
+CMAU2141888,22P1,green,none,TPA ICD Kurasini,C20-4-2,False
+TCLU2706530,42U1,yellow,dent,Ubungo ICD,D18-2-3,True
+OOLU3597746,22U1,green,none,Ubungo ICD,C07-5-2,True
+MSCU7581813,45R1,green,none,TPA Berth 1-7 (General Cargo),E15-5-2,True
+MAEU3750602,22U1,green,none,TPA Berth 1-7 (General Cargo),G03-3-2,False
+MAEU5220474,45G1,yellow,rust,TICTS Container Terminal,B01-3-2,True
+SEGU9861436,45R1,green,none,TPA Berth 1-7 (General Cargo),G20-4-1,False
+OOLU9808933,45G1,green,none,TICTS Container Terminal,F08-5-4,False
+MAEU8518884,22P1,green,none,Ubungo ICD,H02-6-4,True
+PCIU0515310,45G0,yellow,rust,TICTS Container Terminal,F18-3-2,True
+OOLU7221700,45R1,green,none,TPA Berth 1-7 (General Cargo),A11-3-4,True
+SEGU7403455,22G1,yellow,rust,TICTS Container Terminal,F14-4-4,True
+TGHU5277588,45R1,yellow,dent,TICTS Container Terminal,G20-2-3,True
+MAEU5447961,45G1,yellow,rust,TICTS Container Terminal,F20-4-3,True
+MSCU1658203,45G1,yellow,dent,Ubungo ICD,A05-1-2,True
+ONEU5690923,42U1,red,rust,TICTS Container Terminal,C17-3-4,True
+PCIU3102789,22U1,red,none,TPA ICD Kurasini,H07-5-3,True
+OOLU3121723,42U1,red,dent,TPA ICD Kurasini,F03-5-3,True
+CMAU2583133,45G1,green,none,Ubungo ICD,A12-5-3,True
+SEGU2911469,42U1,green,none,Ubungo ICD,B05-3-1,True
+SEGU5289220,22U1,green,none,TICTS Container Terminal,B17-2-3,False
+ONEU3584141,22R1,yellow,rust,TPA Berth 1-7 (General Cargo),E20-5-1,True
+CMAU9922990,22T1,yellow,rust,TICTS Container Terminal,B02-6-3,True
+TCLU6907846,45R1,green,none,Ubungo ICD,E15-1-1,False
+TGHU7735925,22T1,yellow,rust,TPA ICD Kurasini,G05-3-1,True
+OOLU1473216,22G1,green,none,Ubungo ICD,G08-2-3,True
+ONEU3278774,45R1,green,none,TICTS Container Terminal,G17-4-2,True
+ONEU0047977,45R1,green,none,TICTS Container Terminal,G05-3-3,True
+ONEU0609837,22T1,green,none,TICTS Container Terminal,G17-4-3,True
+TCLU9121655,22T1,green,none,TPA ICD Kurasini,C07-5-4,True
+MSCU0257870,45G1,yellow,rust,TPA ICD Kurasini,F06-4-3,True
+SEGU8879472,22G1,green,none,TICTS Container Terminal,G19-3-1,True
+PCIU9930970,45G1,green,none,Ubungo ICD,C08-1-1,False
+OOLU5626360,22P1,yellow,hole,TICTS Container Terminal,C17-2-3,True
+OOLU8652785,22T1,green,none,TPA ICD Kurasini,H07-2-3,True
+HLCU4437574,22T1,green,none,TPA ICD Kurasini,E04-5-4,True
+TGHU5240418,22T1,red,dent,Ubungo ICD,D07-5-3,True
+PCIU2199334,22G1,yellow,rust,TPA Berth 1-7 (General Cargo),A04-4-3,True
+MAEU2082670,42U1,yellow,dent,TPA ICD Kurasini,F10-6-1,True
+MAEU9380260,45G1,red,none,Ubungo ICD,H06-6-3,True
+MSCU4991542,42U1,red,rust,Ubungo ICD,C17-4-3,False
+MAEU5274207,22T1,yellow,rust,TPA Berth 1-7 (General Cargo),C20-6-4,True
+MSMU1055283,22G1,green,none,TICTS Container Terminal,A01-1-1,True
+CICU2788372,45G1,green,none,TPA Berth 1-7 (General Cargo),B04-2-2,True
+MSBU5286137,45G1,green,none,TPA ICD Kurasini,C07-3-3,True
+MEDU3592734,22G1,green,none,Ubungo ICD,D10-4-4,True
+ZCSU7057271,45G1,green,none,TICTS Container Terminal,E13-5-1,True
+TCPU4566687,45G1,green,none,TPA Berth 1-7 (General Cargo),F16-6-2,True
+DPWU2145535,22G1,green,none,TPA ICD Kurasini,A19-1-3,True
+UETU7201502,45G1,green,none,Ubungo ICD,B02-2-4,True
+BEAU6030859,45G1,green,none,TICTS Container Terminal,C05-3-1,True
+MSKU4465824,22G1,green,none,TPA Berth 1-7 (General Cargo),D08-4-2,True
+CAIU4926120,45G1,green,none,TPA ICD Kurasini,E11-5-3,True
+JXLU4703589,45G1,green,none,Ubungo ICD,F14-6-4,True
+HLXU8842091,45G1,green,none,TICTS Container Terminal,A17-1-1,True
+TEMU3061778,22G1,green,none,TPA Berth 1-7 (General Cargo),B20-2-2,True
+GESU5528314,45G1,green,none,TPA ICD Kurasini,C03-3-3,True
+CMAU9174205,22G1,green,none,Ubungo ICD,D06-4-4,True

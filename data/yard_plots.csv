@@ -1,0 +1,33 @@
+terminal,block,rows,slots_per_row,max_tier,reefer_block
+TICTS Container Terminal,A,20,6,4,False
+TICTS Container Terminal,B,20,6,4,False
+TICTS Container Terminal,C,20,6,4,False
+TICTS Container Terminal,D,20,6,4,False
+TICTS Container Terminal,E,20,6,4,False
+TICTS Container Terminal,F,20,6,4,False
+TICTS Container Terminal,G,20,6,4,True
+TICTS Container Terminal,H,20,6,4,True
+TPA Berth 1-7 (General Cargo),A,20,6,4,False
+TPA Berth 1-7 (General Cargo),B,20,6,4,False
+TPA Berth 1-7 (General Cargo),C,20,6,4,False
+TPA Berth 1-7 (General Cargo),D,20,6,4,False
+TPA Berth 1-7 (General Cargo),E,20,6,4,False
+TPA Berth 1-7 (General Cargo),F,20,6,4,False
+TPA Berth 1-7 (General Cargo),G,20,6,4,True
+TPA Berth 1-7 (General Cargo),H,20,6,4,True
+TPA ICD Kurasini,A,20,6,4,False
+TPA ICD Kurasini,B,20,6,4,False
+TPA ICD Kurasini,C,20,6,4,False
+TPA ICD Kurasini,D,20,6,4,False
+TPA ICD Kurasini,E,20,6,4,False
+TPA ICD Kurasini,F,20,6,4,False
+TPA ICD Kurasini,G,20,6,4,True
+TPA ICD Kurasini,H,20,6,4,True
+Ubungo ICD,A,20,6,4,False
+Ubungo ICD,B,20,6,4,False
+Ubungo ICD,C,20,6,4,False
+Ubungo ICD,D,20,6,4,False
+Ubungo ICD,E,20,6,4,False
+Ubungo ICD,F,20,6,4,False
+Ubungo ICD,G,20,6,4,True
+Ubungo ICD,H,20,6,4,True

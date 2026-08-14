@@ -1,0 +1,11 @@
+iso_code,description,length_ft,is_reefer
+22G1,20ft Standard (General),20,False
+42G1,40ft Standard (General),40,False
+45G1,40ft High-Cube (General),40,False
+22R1,20ft Reefer,20,True
+45R1,40ft High-Cube Reefer,40,True
+22T1,20ft Tank,20,False
+22U1,20ft Open-Top,20,False
+42U1,40ft Open-Top,40,False
+22P1,20ft Flat-Rack,20,False
+45G0,"40ft High-Cube (General, vented)",40,False

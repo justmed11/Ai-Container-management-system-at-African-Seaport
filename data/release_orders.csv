@@ -1,0 +1,77 @@
+release_order_id,container_id,iso_type,importer_tin,importer_name,declared_plate,ro_status,customs_cleared,payment_status,movement_type
+RO-2026-1000,OOLU7221700,45R1,129-987-203,Tanzanite Freight Ltd,T 773 UUS,pending,False,paid,return
+RO-2026-1001,ONEU0643174,42G1,111-323-338,Kilimanjaro Imports Ltd,T 651 JZU,pending,False,unpaid,pickup
+RO-2026-1002,TGHU5876035,22U1,120-573-488,Kigamboni Builders Ltd,T 833 LHJ,processed,True,unpaid,pickup
+RO-2026-1003,MSCU0343243,45R1,111-323-338,Kilimanjaro Imports Ltd,T 187 ZRC,pending,False,paid,pickup
+RO-2026-1004,OOLU5626360,22P1,147-463-314,Selous Commodities,T 371 QKP,pending,False,paid,pickup
+RO-2026-1005,TGHU6889377,22R1,147-463-314,Selous Commodities,T 653 ACH,processed,False,paid,return
+RO-2026-1006,TCLU3867740,45G0,177-370-926,Mwanza Agro Supplies,T 680 YLG,processed,True,unpaid,pickup
+RO-2026-1007,HLCU1473794,45G0,120-573-488,Kigamboni Builders Ltd,T 324 ESR,processed,True,paid,return
+RO-2026-1008,MSCU7581813,45R1,128-242-854,MeTL Trading Co,T 324 ESR,on-hold,False,paid,pickup
+RO-2026-1009,MAEU9380260,45G1,177-370-926,Mwanza Agro Supplies,T 653 ACH,processed,True,unpaid,return
+RO-2026-1010,PCIU6584046,45R1,184-333-891,Nyerere Electronics Ltd,T 761 DBN,on-hold,False,paid,pickup
+RO-2026-1011,SEGU2449350,22R1,173-296-821,Kariakoo General Merchants,T 294 TQE,processed,True,unpaid,pickup
+RO-2026-1012,CMAU6217451,45G0,137-949-743,Dodoma Steel Ltd,T 111 XZD,processed,True,unpaid,pickup
+RO-2026-1013,ONEU4599104,45G1,135-259-320,Uhuru Motors Ltd,T 941 BLN,pending,False,paid,pickup
+RO-2026-1014,PCIU8467732,42U1,177-750-275,Ruvuma Farm Inputs,T 318 NBF,processed,True,paid,pickup
+RO-2026-1015,OOLU8207157,42G1,137-949-743,Dodoma Steel Ltd,T 369 SFS,processed,True,unpaid,pickup
+RO-2026-1016,MSCU9134310,22U1,128-242-854,MeTL Trading Co,T 653 ACH,processed,True,paid,pickup
+RO-2026-1017,HLCU1839332,22T1,197-925-263,Coastal Hardware Co,T 324 ESR,processed,False,unpaid,return
+RO-2026-1018,HLCU6851602,45R1,128-242-854,MeTL Trading Co,T 873 ZYG,pending,False,paid,pickup
+RO-2026-1019,CMAU2583133,45G1,135-259-320,Uhuru Motors Ltd,T 833 LHJ,processed,True,paid,pickup
+RO-2026-1020,MSCU0524278,22P1,147-463-314,Selous Commodities,T 172 YWB,processed,True,unpaid,pickup
+RO-2026-1021,ONEU0047977,45R1,120-573-488,Kigamboni Builders Ltd,T 656 YKV,pending,False,paid,pickup
+RO-2026-1022,MAEU5280982,22P1,177-370-926,Mwanza Agro Supplies,T 369 SFS,on-hold,False,unpaid,pickup
+RO-2026-1023,OOLU1473216,22G1,184-333-891,Nyerere Electronics Ltd,T 980 LCS,processed,True,unpaid,return
+RO-2026-1024,CMAU9946800,45R1,128-559-703,Tanga Cement Traders,T 318 NBF,processed,False,paid,return
+RO-2026-1025,ONEU3100334,22G1,173-296-821,Kariakoo General Merchants,T 773 UUS,processed,True,paid,pickup
+RO-2026-1026,TCLU2706530,42U1,173-296-821,Kariakoo General Merchants,T 652 SAV,pending,False,paid,pickup
+RO-2026-1027,MSCU0471136,22P1,135-259-320,Uhuru Motors Ltd,T 980 LCS,pending,False,paid,pickup
+RO-2026-1028,OOLU4989417,22R1,128-242-854,MeTL Trading Co,T 407 QLC,processed,True,unpaid,pickup
+RO-2026-1029,PCIU2199334,22G1,173-296-821,Kariakoo General Merchants,T 873 ZYG,processed,True,paid,pickup
+RO-2026-1030,MAEU0205395,22T1,137-949-743,Dodoma Steel Ltd,T 256 WFX,processed,True,paid,pickup
+RO-2026-1031,SEGU8675334,45G0,173-296-821,Kariakoo General Merchants,T 656 YKV,processed,True,paid,return
+RO-2026-1032,SEGU7403455,22G1,177-750-275,Ruvuma Farm Inputs,T 187 ZRC,processed,True,paid,pickup
+RO-2026-1033,TGHU7735925,22T1,181-214-125,Bakhresa Group Ltd,T 187 ZRC,on-hold,False,unpaid,pickup
+RO-2026-1034,ONEU4119988,22U1,158-750-954,Indian Ocean Trading,T 873 ZYG,processed,True,paid,pickup
+RO-2026-1035,TCLU8478967,42G1,177-750-275,Ruvuma Farm Inputs,T 319 TEZ,pending,False,paid,pickup
+RO-2026-1036,ONEU3278774,45R1,177-750-275,Ruvuma Farm Inputs,T 533 PQZ,processed,True,paid,pickup
+RO-2026-1037,OOLU7014364,22R1,111-323-338,Kilimanjaro Imports Ltd,T 151 URS,pending,False,paid,pickup
+RO-2026-1038,OOLU6617717,42G1,137-949-743,Dodoma Steel Ltd,T 319 TEZ,processed,True,paid,return
+RO-2026-1039,MAEU5447961,45G1,171-303-833,Serengeti Distributors,T 680 YLG,processed,True,unpaid,return
+RO-2026-1040,MAEU7964053,22R1,184-333-891,Nyerere Electronics Ltd,T 172 YWB,processed,True,paid,return
+RO-2026-1041,PCIU5494800,22P1,135-259-320,Uhuru Motors Ltd,T 182 FCV,processed,True,paid,pickup
+RO-2026-1042,OOLU8652785,22T1,158-750-954,Indian Ocean Trading,T 182 FCV,processed,True,paid,pickup
+RO-2026-1043,MAEU5274207,22T1,171-303-833,Serengeti Distributors,T 833 LHJ,processed,True,unpaid,return
+RO-2026-1044,ONEU3755645,22U1,128-242-854,MeTL Trading Co,T 773 UUS,processed,True,unpaid,pickup
+RO-2026-1045,ONEU0229610,45G1,181-214-125,Bakhresa Group Ltd,T 653 ACH,processed,True,paid,return
+RO-2026-1046,HLCU7917690,22R1,171-303-833,Serengeti Distributors,T 941 BLN,processed,True,paid,return
+RO-2026-1047,MSCU1658203,45G1,128-801-432,Great Lakes Transit Co,T 151 URS,processed,False,unpaid,return
+RO-2026-1048,MAEU6328709,22P1,184-333-891,Nyerere Electronics Ltd,T 941 BLN,processed,True,unpaid,pickup
+RO-2026-1049,TCLU3248088,22U1,181-214-125,Bakhresa Group Ltd,T 513 DUH,pending,False,unpaid,pickup
+RO-2026-1050,SEGU2911469,42U1,128-559-703,Tanga Cement Traders,T 490 VQS,on-hold,False,unpaid,pickup
+RO-2026-1051,OOLU6438157,22U1,135-259-320,Uhuru Motors Ltd,T 471 KHB,processed,True,paid,pickup
+RO-2026-1052,ONEU9401398,45G0,173-296-821,Kariakoo General Merchants,T 256 WFX,processed,True,unpaid,pickup
+RO-2026-1053,MSCU5045560,45G1,135-259-320,Uhuru Motors Ltd,T 980 LCS,processed,True,unpaid,return
+RO-2026-1054,OOLU3597746,22U1,128-242-854,MeTL Trading Co,T 256 WFX,processed,True,paid,pickup
+RO-2026-1055,CMAU9922990,22T1,181-214-125,Bakhresa Group Ltd,T 754 SVG,processed,True,unpaid,pickup
+RO-2026-1056,OOLU2980690,45G0,120-573-488,Kigamboni Builders Ltd,T 490 VQS,pending,False,paid,pickup
+RO-2026-1057,TGHU5277588,45R1,197-925-263,Coastal Hardware Co,T 676 DCT,processed,False,paid,return
+RO-2026-1058,TGHU5569810,22U1,111-489-199,Zanzibar Spice Importers,T 833 LHJ,processed,False,paid,pickup
+RO-2026-1059,PCIU3102789,22U1,197-925-263,Coastal Hardware Co,T 457 CHM,processed,True,paid,pickup
+RO-2026-1060,MSMU1055283,22G1,181-214-125,Bakhresa Group Ltd,T 632 CUB,processed,True,paid,pickup
+RO-2026-1061,CICU2788372,45G1,128-242-854,MeTL Trading Co,T 467 EJP,processed,True,paid,pickup
+RO-2026-1062,MSBU5286137,45G1,111-704-532,Azania Logistics Ltd,T 903 EGY,processed,True,paid,pickup
+RO-2026-1063,MEDU3592734,22G1,111-323-338,Kilimanjaro Imports Ltd,T 862 EPV,processed,True,unpaid,pickup
+RO-2026-1064,ZCSU7057271,45G1,171-303-833,Serengeti Distributors,T 804 EPV,processed,True,paid,pickup
+RO-2026-1065,TCPU4566687,45G1,128-559-703,Tanga Cement Traders,T 806 EMZ,processed,True,paid,pickup
+RO-2026-1066,DPWU2145535,22G1,197-925-263,Coastal Hardware Co,T 865 PEG,processed,True,unpaid,pickup
+RO-2026-1067,UETU7201502,45G1,135-259-320,Uhuru Motors Ltd,T 871 AMK,processed,True,paid,pickup
+RO-2026-1068,BEAU6030859,45G1,111-489-199,Zanzibar Spice Importers,T 464 BGV,processed,True,paid,pickup
+RO-2026-1069,MSKU4465824,22G1,177-370-926,Mwanza Agro Supplies,T 996 EQF,processed,False,paid,pickup
+RO-2026-1070,CAIU4926120,45G1,168-227-487,Mbeya Highland Traders,T 902 ASV,processed,True,paid,pickup
+RO-2026-1071,JXLU4703589,45G1,137-949-743,Dodoma Steel Ltd,T 456 BDA,processed,True,paid,pickup
+RO-2026-1072,HLXU8842091,45G1,173-296-821,Kariakoo General Merchants,T 120 DKM,processed,True,paid,pickup
+RO-2026-1073,TEMU3061778,22G1,184-333-891,Nyerere Electronics Ltd,T 763 EER,on-hold,True,unpaid,pickup
+RO-2026-1074,GESU5528314,45G1,129-987-203,Tanzanite Freight Ltd,T 456 EFE,processed,True,paid,pickup
+RO-2026-1075,CMAU9174205,22G1,158-750-954,Indian Ocean Trading,T 123 DKM,processed,True,unpaid,pickup

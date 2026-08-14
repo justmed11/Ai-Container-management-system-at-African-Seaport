@@ -1,0 +1,16 @@
+# Core UI
+gradio>=4.0
+
+# Perception models (install when you have GPU / weights)
+ultralytics>=8.1        # YOLO detectors: container-ID/ISO, damage, plate
+transformers>=4.38      # microsoft/trocr-base-printed reader
+torch>=2.1
+sentencepiece
+
+# Media + utils
+opencv-python-headless
+pillow
+numpy
+
+# Optional: LLM inspection reports (set OPENAI_API_KEY). Falls back to rule-based.
+openai>=1.0
