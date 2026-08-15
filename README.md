@@ -1,3 +1,6 @@
+# Ai-Container-management-system-at-African-Seaport
+The project is about a system that uses computer vision model to catch records from containers id picking up and returning truck license plates, normal inspecting containers inspection using computer vision models. All of these initially were done manually that are error prone on busy days at ports and time taking that the system aim to fix.
+
 # AI Container Management — Port of Dar es Salaam
 
 Research project: **Design of Artificial Intelligence on Containers Management**.
